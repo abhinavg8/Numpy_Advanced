@@ -12,7 +12,7 @@ This small work would help you to gain the following Numpy Skills :
       
       1.4) Normalization  
       
-      1.5) Softmaz functions
+      1.5) Softmax functions
    
    **2.Vectorization**
     
